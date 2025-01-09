@@ -2,8 +2,6 @@
 ## About Me 👇
 I'm a self driven and ambitious Data Scientist with 1+ years professional experience in the data science domain along with a Master's in Data Science. Proven track record in statistical modeling, machine learning, reinforcement learning and productionizing ML models. Skilled in simplifying complex technical concepts and transforming analytics into actionable business insights 💵, ensuring effective communication across diverse stakeholders.
 
-I'm a firm believer in lifelong learning, I actively pursue and complete MOOC courses to stay at the forefront of advancements in AI and data science. I'm always eager to explore collaborative opportunities in the ML and data science space. Let’s connect and innovate together to push the boundaries of AI! 🚀📊
-
 ---
 
 ## Experience 💼
