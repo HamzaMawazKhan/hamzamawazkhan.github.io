@@ -1,4 +1,3 @@
-# Hamza Mawaz Khan 👨‍💻
 
 ## About Me 👇
 I'm a self driven and ambitious Data Scientist with 1+ years professional experience in the data science domain. Proven track record in statistical modeling, machine learning, reinforcement learning and productionizing ML models. Skilled in simplifying complex technical concepts and transforming analytics into actionable business insights 💵, ensuring effective communication across diverse stakeholders.
