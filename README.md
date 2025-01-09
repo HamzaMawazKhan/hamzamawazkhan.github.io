@@ -54,6 +54,7 @@ Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, 
 - Presented a visual analysis of the data to stakeholders, focusing on trends in customer behavior, hotel prices, and seasonality, as well as explaining in depth the correlated features that led to cancellations.
 
 [http://tiny.cc/8yw4001](#)
+
 ---
 
 ## Education 🎓
