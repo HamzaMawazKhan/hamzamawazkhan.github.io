@@ -37,7 +37,8 @@ Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, 
 - Developed a demand forecasting model to predict store sales using FB Prophet, achieving a 4.9% MAPE after preprocessing and feature engineering using techniques such as anomaly detection, encoding, hyperparameter tuning etc.
 - Communicated key technical findings to the business for downstream inventory management and sales optimization through communicable plots using matplotlib and seaborn.
 
-[https://github.com/HamzaMawazKhan/FB-Prophet-Demand-Forecasting-Store-Sales](#)
+[FB Prophet Demand Forecasting - Store Sales](https://github.com/HamzaMawazKhan/FB-Prophet-Demand-Forecasting-Store-Sales)
+
 
 ---
 
@@ -45,7 +46,7 @@ Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, 
 - Built an ensemble machine learning classifier for predicting cyber-attack, utilizing ANN, Random Forest and Logistic Regression, achieving a high recall score of 98% after extensive data preprocessing and hyperparameter tuning.
 - Reported in detail the key patterns and trends leading up to each type of attack via visualizations and statistical analysis, enabling the
 
-[https://github.com/HamzaMawazKhan/CyberAttackPrediction](#)
+[Cyber Attack Prediction](https://github.com/HamzaMawazKhan/CyberAttackPrediction)
 
 ---
 
@@ -53,7 +54,7 @@ Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, 
 - Developed a machine learning pipeline to predict hotel booking cancellations using classification algorithms, including Logistic Regression, Random Forest, XGBoost, CatBoost, and LightGBM with final model achieving 97% accuracy.
 - Presented a visual analysis of the data to stakeholders, focusing on trends in customer behavior, hotel prices, and seasonality, as well as explaining in depth the correlated features that led to cancellations.
 
-[http://tiny.cc/8yw4001](#)
+[Hotel Booking Cancellation Prediction](http://tiny.cc/8yw4001)
 
 ---
 
