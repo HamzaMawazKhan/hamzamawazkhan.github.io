@@ -53,7 +53,7 @@ Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, 
 - Developed a machine learning pipeline to predict hotel booking cancellations using classification algorithms, including Logistic Regression, Random Forest, XGBoost, CatBoost, and LightGBM with final model achieving 97% accuracy.
 - Presented a visual analysis of the data to stakeholders, focusing on trends in customer behavior, hotel prices, and seasonality, as well as explaining in depth the correlated features that led to cancellations.
 
-[[https://github.com/HamzaMawazKhan/CyberAttackPrediction](https://nbviewer.org/github/HamzaMawazKhan/Hotel-Booking-Cancellation-Prediction/blob/main/Hotel%20Booking%20Cancellation%20Prediction.ipynb)](#)
+[http://tiny.cc/8yw4001](#)
 ---
 
 ## Education 🎓
