@@ -41,7 +41,7 @@ Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, 
 
 ---
 
-### **Cyber Attack Prediction**
+### **Cyber Attack Prediction Using ML**
 - Built an ensemble machine learning classifier for predicting cyber-attack, utilizing ANN, Random Forest and Logistic Regression, achieving a high recall score of 98% after extensive data preprocessing and hyperparameter tuning.
 - Reported in detail the key patterns and trends leading up to each type of attack via visualizations and statistical analysis, enabling the
 
@@ -49,11 +49,11 @@ Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, 
 
 ---
 
-### **Hotel Booking Cancellation Prediction**
+### **Hotel Booking Cancellation Prediction Using ML**
 - Developed a machine learning pipeline to predict hotel booking cancellations using classification algorithms, including Logistic Regression, Random Forest, XGBoost, CatBoost, and LightGBM with final model achieving 97% accuracy.
 - Presented a visual analysis of the data to stakeholders, focusing on trends in customer behavior, hotel prices, and seasonality, as well as explaining in depth the correlated features that led to cancellations.
 
-[https://github.com/user-attachments/assets/32999598-b954-4fe2-af48-fd8e159d6c8e](#)
+[[https://github.com/user-attachments/assets/32999598-b954-4fe2-af48-fd8e159d6c8e](https://nbviewer.org/github/HamzaMawazKhan/Hotel-Booking-Cancellation-Prediction/blob/main/Hotel%20Booking%20Cancellation%20Prediction.ipynb)](#)
 
 ---
 
@@ -71,6 +71,6 @@ Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, 
 
 ## Leadership & Activities 🏆
 
-- **Head of Data & AI @ Microsoft Club**  
-- **VP Finance @ AIESEC**  
-- **AI Team Lead @ Team Foxtrot**
+**Head of Data & AI @ Microsoft Club**  
+**VP Finance @ AIESEC**  
+**AI Team Lead @ Team Foxtrot**
