@@ -27,8 +27,8 @@ I'm a firm believer in lifelong learning, I actively pursue and complete MOOC co
 - **Programming & DevOps:** Python, R, C/C++, SQL, Oracle, Hive, Django, REST API, AutoML, GitHub, Docker, Agile, Jira, 
 - **Data Science & Machine Learning:** Looker, Tableau, Spark, Hadoop, Scikit-Learn, TensorFlow, PyTorch, Keras, Pandas, NumPy, SciPy,
 Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, Forecasting
-**Statistical Skills:** A/B Testing, Hypothesis Testing, KPI Analysis, Statistics
-**Cloud:** AWS, Microsoft Azure, GCP
+- **Statistical Skills:** A/B Testing, Hypothesis Testing, KPI Analysis, Statistics
+- **Cloud:** AWS, Microsoft Azure, GCP
 
 ---
 
