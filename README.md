@@ -22,7 +22,7 @@ I'm a self driven and ambitious Data Scientist with 1+ years professional experi
 ## Technical Skills 🛠️
 
 - **Programming & DevOps:** Python, R, C/C++, SQL, Oracle, Hive, Django, REST API, AutoML, GitHub, Docker, Agile, Jira, 
-- **Data Science & Machine Learning:** Looker, Tableau, Spark, Hadoop, Scikit-Learn, TensorFlow, PyTorch, Keras, Pandas, NumPy, SciPy,
+- **Data Science & Machine Learning:** Looker, Tableau, Spark, Hadoop, OpenAI Gym, Scikit-Learn, TensorFlow, PyTorch, Keras, Pandas, NumPy, SciPy,
 Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, Forecasting
 - **Statistical Skills:** A/B Testing, Hypothesis Testing, KPI Analysis, Statistics
 - **Cloud:** AWS, Microsoft Azure, GCP
