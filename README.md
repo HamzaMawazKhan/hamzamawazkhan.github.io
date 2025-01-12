@@ -40,6 +40,14 @@ Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, 
 
 ---
 
+### **Finding Optimal Policy for Warehouse Robot with Reinforcement Learning**
+- Designed and implemented **Deep Q-Network (DQN)** and **Double DQN (DDQN)** algorithms to optimize robot navigation in a warehouse grid, enabling the agent to navigate obstacles, pick up items, and deliver them to designated locations using a structured reward system.
+- Enhanced algorithm performance by utilizing a **replay buffer** for efficient learning and incorporating a **target network** for improved training stability, achieving consistent maximum rewards of 13 by fine-tuning hyperparameters (learning rate: 0.6, gamma: 0.6, epsilon decay).
+
+[Warehouse Robot Navigation - DQN & DDQN](https://github.com/HamzaMawazKhan/Warehouse-Robot-with-Reinforcement-Learning-)
+
+---
+
 ### **Cyber Attack Prediction Using ML**
 - Built an ensemble machine learning classifier for predicting cyber-attack, utilizing ANN, Random Forest and Logistic Regression, achieving a high recall score of 98% after extensive data preprocessing and hyperparameter tuning.
 - Reported in detail the key patterns and trends leading up to each type of attack via visualizations and statistical analysis, enabling the
