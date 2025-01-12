@@ -32,7 +32,7 @@ Statsmodels, Matplotlib, Seaborn, NLTK, Regression, Classification, Clustering, 
 ## Projects 🖥️
 
 ### **Demand Forecasting & Visualization of Store Sales**
-- Developed a demand forecasting model to predict store sales using FB Prophet, achieving a 4.9% MAPE after preprocessing and feature engineering using techniques such as anomaly detection, encoding, hyperparameter tuning etc.
+- Developed a demand forecasting model to predict store sales using **FB Prophet**, achieving a 4.9% MAPE after preprocessing and feature engineering using techniques such as anomaly detection, encoding, hyperparameter tuning etc.
 - Communicated key technical findings to the business for downstream inventory management and sales optimization through communicable plots using matplotlib and seaborn.
 
 [FB Prophet Demand Forecasting - Store Sales](https://github.com/HamzaMawazKhan/FB-Prophet-Demand-Forecasting-Store-Sales)
