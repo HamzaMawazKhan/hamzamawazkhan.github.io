@@ -1,6 +1,6 @@
 
 ## About Me 👇
-I'm a self driven and ambitious Data Scientist with 1+ years professional experience in the data science domain along with a Master's in Data Science. Proven track record in statistical modeling, machine learning, reinforcement learning and productionizing ML models. Skilled in simplifying complex technical concepts and transforming analytics into actionable business insights 💵, ensuring effective communication across diverse stakeholders.
+I'm a self driven and ambitious Data Scientist with a Master's in Data Science. Proven track record in statistical modeling, machine learning, reinforcement learning and productionizing ML models. Skilled in simplifying complex technical concepts and transforming analytics into actionable business insights 💵, ensuring effective communication across diverse stakeholders.
 
 ---
 
@@ -9,6 +9,7 @@ I'm a self driven and ambitious Data Scientist with 1+ years professional experi
 - **Data Scientist @ Rafeeq**  
 - **Data Science Intern @ Fountech Group**  
 - **Research @ Technical University Dresden**
+- **Data Scientist @ Team Foxtrot**
 
 ---
 
